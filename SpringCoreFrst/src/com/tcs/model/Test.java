@@ -19,6 +19,7 @@ public class Test {
 //		  emp.setAddr(addr);
 		 
 		System.out.println(emp);
+		System.out.println(emp);
 
 	}
 
